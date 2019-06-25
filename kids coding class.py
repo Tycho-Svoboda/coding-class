@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-
+"""LESSON ONE MISSION: to have student """
 
 """"First, explain how computer science is important, and how it can be used to make video games, art, cars, computers, 
 and basically everything!
