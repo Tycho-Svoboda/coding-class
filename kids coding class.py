@@ -43,7 +43,7 @@ wearing_grey_shirt = True
 integer = 9
 
 
-# In[9]:
+"""Now you try!  create a string, boolean, and integer example"""
 
 
 x = 10
