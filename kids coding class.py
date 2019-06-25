@@ -29,7 +29,7 @@ print ('my name is hailey')
 
 
 """Next, go into data types, and explain how Python has 3 main types (string, boolean, and integers).  Explain each 
-type, and give an example of each.  Then have the student write a couple examples of each type
+type, and give an example of each.  A string is a group of letters. Then have the student write a couple examples of each type"""
 
 
 # In[8]:
